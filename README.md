@@ -1,4 +1,4 @@
-# flutter_classifier
+# flower_classifier
 
 A new Flutter project.
 
