@@ -1,6 +1,6 @@
 # flower_classifier
 
-A new Flutter project.
+Deep Learning with Flutter & Python
 
 ## Getting Started
 
